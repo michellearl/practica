@@ -100,6 +100,9 @@ public class notas {
         }
     }
 		
+    
+    
+    
 	/**
 	 * Este ultimo es el metodo principal que ejecuta el flujo del programa.
 	 * Llama a los metodos para ingresar notas, comprobarlas, calcular la nota final, mostrar los resultados y evaluar si el alumno aprueba o suspende.
